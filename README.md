@@ -106,12 +106,3 @@ git push origin feature/YourFeature
 - Open a pull request
 
 
-## 📄 License
-- This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Contact
-#### If you have any questions or suggestions, feel free to reach out:
-
-- Email: rohansh0808@gmail.com
-- GitHub: Rohansh0808
-- LinkedIn: https://www.linkedin.com/in/rohan-shrivastava-887a15251/
